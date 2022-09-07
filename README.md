@@ -1,5 +1,4 @@
-# Projects by Lennard Henze
-
+# Recent Projects
 
 ## [Project 1](https://github.com/henzelennard/henzelennard.github.io)
 
