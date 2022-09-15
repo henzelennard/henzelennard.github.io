@@ -1,6 +1,6 @@
 # Recent Projects
 
-## [Bank Loan Analysis](https://github.com/henzelennard/personal-loan-modelling)
+## [Bank Loan Campaign Review](https://github.com/henzelennard/personal-loan-modelling)
 
 ### Project overview
 * We want to know what factors were important for loan acceptance in a past campaign.
@@ -10,32 +10,17 @@
 
 It is available **[HERE](https://github.com/henzelennard/henzelennard.github.io)**
 
-[![Project 1 Image](/personal-loan-modelling/correlation_matrix.png)](https://github.com/henzelennard/henzelennard.github.io)
+[![Bank Loan Analysis Image](/personal-loan-modelling/correlation_matrix.png)](https://github.com/henzelennard/henzelennard.github.io)
 
 
-## [Project 1](https://github.com/henzelennard/henzelennard.github.io)
+## [Cell Modality Analysis](https://github.com/henzelennard/multimodal-single-cell-integration)
 
 ### Project overview
-* Point 1
-* Point 2
-* Point 3
-* Point 4
+* In genetics, there is a recognized information flow from DNA to RNA to proteins.
+* The ability to forecast other modalities in the same cell using information from one modality is predicted.
+* This project includes data from about 200k cells, each of which has up to 220k features.
+* Prediction models are developed based on the analysis of this enormous data (more than 20 billion data points).
 
-You can access to it **[HERE](https://github.com/henzelennard/henzelennard.github.io)**
+It is available **[HERE](https://github.com/henzelennard/multimodal-single-cell-integration)**
 
-[![Project 1 Image](media/placeholder.png)](https://github.com/henzelennard/henzelennard.github.io)
-
-
-
-
-[//]: <> (## [Project 1](https://github.com/henzelennard/henzelennard.github.io))
-
-[//]: <> (### Project overview)
-[//]: <> (* Point 1)
-[//]: <> (* Point 2)
-[//]: <> (* Point 3)
-[//]: <> (* Point 4)
-
-[//]: <> (You can access to it **[HERE](https://github.com/henzelennard/henzelennard.github.io)**)
-
-[//]: <> ([![Project 1 Image](media/placeholder.png)](https://github.com/henzelennard/henzelennard.github.io))
+[![Cell Modality Image](cell-modality-analysis/feature-count.png)](https://github.com/henzelennard/multimodal-single-cell-integration)
