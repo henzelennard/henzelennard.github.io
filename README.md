@@ -13,7 +13,6 @@ It is available **[HERE](https://github.com/henzelennard/henzelennard.github.io)
 [![Project 1 Image](/personal-loan-modelling/correlation_matrix.png)](https://github.com/henzelennard/henzelennard.github.io)
 
 
-
 ## [Project 1](https://github.com/henzelennard/henzelennard.github.io)
 
 ### Project overview
@@ -28,28 +27,15 @@ You can access to it **[HERE](https://github.com/henzelennard/henzelennard.githu
 
 
 
-## [Project 1](https://github.com/henzelennard/henzelennard.github.io)
 
-### Project overview
-* Point 1
-* Point 2
-* Point 3
-* Point 4
+[//]: <> (## [Project 1](https://github.com/henzelennard/henzelennard.github.io))
 
-You can access to it **[HERE](https://github.com/henzelennard/henzelennard.github.io)**
+[//]: <> (### Project overview)
+[//]: <> (* Point 1)
+[//]: <> (* Point 2)
+[//]: <> (* Point 3)
+[//]: <> (* Point 4)
 
-[![Project 1 Image](media/placeholder.png)](https://github.com/henzelennard/henzelennard.github.io)
+[//]: <> (You can access to it **[HERE](https://github.com/henzelennard/henzelennard.github.io)**)
 
-
-
-## [Project 1](https://github.com/henzelennard/henzelennard.github.io)
-
-### Project overview
-* Point 1
-* Point 2
-* Point 3
-* Point 4
-
-You can access to it **[HERE](https://github.com/henzelennard/henzelennard.github.io)**
-
-[![Project 1 Image](media/placeholder.png)](https://github.com/henzelennard/henzelennard.github.io)
+[//]: <> ([![Project 1 Image](media/placeholder.png)](https://github.com/henzelennard/henzelennard.github.io))
