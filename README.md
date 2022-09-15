@@ -10,7 +10,7 @@
 
 You can access to it **[HERE](https://github.com/henzelennard/henzelennard.github.io)**
 
-[![Project 1 Image](Project1/placeholder.png)](https://github.com/henzelennard/henzelennard.github.io)
+[![Project 1 Image](media/placeholder.png)](https://github.com/henzelennard/henzelennard.github.io)
 
 
 
@@ -24,7 +24,7 @@ You can access to it **[HERE](https://github.com/henzelennard/henzelennard.githu
 
 You can access to it **[HERE](https://github.com/henzelennard/henzelennard.github.io)**
 
-[![Project 1 Image](Project1/placeholder.png)](https://github.com/henzelennard/henzelennard.github.io)
+[![Project 1 Image](media/placeholder.png)](https://github.com/henzelennard/henzelennard.github.io)
 
 
 
@@ -38,7 +38,7 @@ You can access to it **[HERE](https://github.com/henzelennard/henzelennard.githu
 
 You can access to it **[HERE](https://github.com/henzelennard/henzelennard.github.io)**
 
-[![Project 1 Image](Project1/placeholder.png)](https://github.com/henzelennard/henzelennard.github.io)
+[![Project 1 Image](media/placeholder.png)](https://github.com/henzelennard/henzelennard.github.io)
 
 
 
@@ -52,4 +52,4 @@ You can access to it **[HERE](https://github.com/henzelennard/henzelennard.githu
 
 You can access to it **[HERE](https://github.com/henzelennard/henzelennard.github.io)**
 
-[![Project 1 Image](Project1/placeholder.png)](https://github.com/henzelennard/henzelennard.github.io)
+[![Project 1 Image](media/placeholder.png)](https://github.com/henzelennard/henzelennard.github.io)
