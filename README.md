@@ -1,3 +1,9 @@
+# Status
+I'm currently looking for a project starting in October!
+
+# About
+As a studied mathematician with more than 5 years of expertise in software development, I assist businesses in the fields of data science. My areas of expertise include the extraction of relevant data, further processing (ETL processes), and the development of models for machine learning.
+
 # Recent Projects
 
 ## [Bank Loan Campaign Review](https://github.com/henzelennard/personal-loan-modelling)
