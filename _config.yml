@@ -1,8 +1,8 @@
 title: Lennard Henze
 logo: media/profile.jpg
-description: """Data Strategy and Stakeholder Communication
-
-  +49 (0) 160 97 783 784"""
+description: |+
+  Data Strategy and Stakeholder Communication
+  +49 (0) 160 97 783 784
 show_downloads: False
 google_analytics:
 theme: jekyll-theme-minimal
