@@ -1,12 +1,12 @@
 title: Lennard Henze
-logo: media/profile.jpg
-description: |+
-  Consulting <br /> 
-  <br />
-  +49 (0) 160 97 783 784 <br />
-  henzelen@t-online.de<br />
-  <br />
-  <a href="https://www.linkedin.com/in/lennardhenze/">LinkedIn</a><br />
-show_downloads: False
-google_analytics:
-theme: jekyll-theme-minimal
+author:
+  name: Lennard Henze
+  email: lennard.henze@gmx.de
+description: >
+  My personal side. I post thoughts on technical stuff here.
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+minima:
+  skin: auto
