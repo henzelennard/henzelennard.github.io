@@ -112,3 +112,17 @@ categories: kubernetes security
 * Strong network security significantly reduces the impact of such breaches.
 * Using Cilium to enforce least-privilege networking is a practical, effective defense strategy.
 
+
+# My stuff
+
+Hopefully at this point you are convinced that network policies are really useful and should definetly be used in production. Thankfully cilium makes it really easy for us to specify what our pods can talk to (and implictly what they are not allowed to talk to, namely everything else).
+
+You can quickly test it yourself following this great tutorial on the cilium docs:
+
+https://docs.cilium.io/en/stable/security/dns/
+
+All you need to do is get a local minikube cluster running (5 minutes) and apply a couple of CiliumNetworkPolicies to the cluster (around another 10 minutes) and you will get a basic understanding how things work. 
+
+## Question
+
+How does this port 80 thing work? How is it possible to filter on fqdn when you don't validate the HTTPS cert. Shouldnt it be necessary to only allow HTTPS traffic?
